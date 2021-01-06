@@ -3,7 +3,7 @@ class Bob{
     var options={
     restitution : 0.3,
     friction : 0.5,
-    density : 1.2
+    density : 0.8
     
     } 
     this.x = x;
